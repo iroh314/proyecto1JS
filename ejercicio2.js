@@ -2,7 +2,7 @@ let calculoImc;
 
 let nombreUsuario = prompt(`Ingrese el nombre del usuario`);
 let pesoUsuario = prompt(`Ingrese el peso del usuario en kilogramos`);
-let estaturaUsuario = prompt(`Ingrese la estatura del usario en metros`);
+let estaturaUsuario = prompt(`Ingrese la estatura del usuario en metros`);
 
 pesoUsuario = parseFloat (pesoUsuario);
 estaturaUsuario = parseFloat (estaturaUsuario);
